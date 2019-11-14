@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "firstName": "Eskil",
+        "lastName": "Reiremo",
+        "myClass": "3DEB"
+    },
+    {
+        "id": 2,
+        "firstName": "Stein Eskil",
+        "lastName": "Losvar",
+        "myClass": "3DEB"
+    },
+    {
+        "id": 3,
+        "firstName": "Syver",
+        "lastName": "Andersen",
+        "myClass": "3DEB"
+    },
+    {
+        "id": 4,
+        "firstName": "Martin",
+        "lastName": "Alfei",
+        "myClass": "3DEB"
+    },
+    {
+        "id": 5,
+        "firstName": "Bård",
+        "lastName": "Johnsen",
+        "myClass": "3DEB"
+    }
+]
